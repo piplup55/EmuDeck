@@ -2357,7 +2357,7 @@
     "steamCategory": "${Dreamcast - Redream}",
     "steamDirectory": "${steamdirglobal}",
     "romDirectory": "${romsdirglobal}/dreamcast",
-    "executableArgs": "${filePath}",
+    "executableArgs": "\"${filePath}\"",
     "executableModifier": "\"${exePath}\"",
     "startInDirectory": "",
     "titleModifier": "${fuzzyTitle}",
